@@ -1,6 +1,6 @@
 # Next Go Orders
 
-Página institucional de vendas do sistema de agendamento e pedidos **Next Go Orders**, desenvolvido pela **FC Soluções Digitais** para o ecossistema da **Guia Panorama**.
+Página institucional de vendas do sistema de pedidos **Next Go Orders**, desenvolvido pela **FC Soluções Digitais** para o ecossistema da **Guia Panorama**.
 
 O site apresenta o sistema de cardápio digital e gerenciamento de pedidos para estabelecimentos, incluindo demonstração dos recursos, planos, formas de contratação e canais de atendimento. Os clientes podem conhecer o funcionamento do sistema, agendar uma consultoria e encaminhar pedidos pelo canal de vendas.
 
